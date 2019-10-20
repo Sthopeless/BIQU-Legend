@@ -1,2 +1,2 @@
 # BIQU Legend
-BigTreeTech Legend 3D Printer
+##### BigTreeTech Legend 3D Printer
